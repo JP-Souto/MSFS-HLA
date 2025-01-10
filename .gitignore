@@ -30,3 +30,24 @@
 *.exe
 *.out
 *.app
+
+# files build
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.ilk
+
+# Config Visual Studio
+.vs/
+*.suo
+*.user
+*.ipch
+*.db
+*.log
+
+# build
+build/
+Debug/
+Release/
