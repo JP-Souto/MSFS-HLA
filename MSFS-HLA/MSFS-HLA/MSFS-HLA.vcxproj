@@ -110,7 +110,7 @@
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Program Files\prti1516e\lib;C:\MSFS SDK\SimConnect SDK\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>"C:\MSFS SDK\SimConnect SDK\lib\SimConnect.lib";"C:\Program Files\prti1516e\lib";"fedtime1516e.lib";%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>"C:\MSFS SDK\SimConnect SDK\lib\SimConnect.lib";%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">

@@ -1,7 +1,7 @@
 #include <RTI/RTI1516.h>
 #include <RTI/RTIambassadorFactory.h>
 #include <iostream>
-
+/*
 int main() {
     try {
         rti1516e::RTIambassadorFactory factory;
@@ -14,3 +14,4 @@ int main() {
 
     return 0;
 }
+*/
